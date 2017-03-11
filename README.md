@@ -13,13 +13,13 @@
 > 以下目录只是初步构想，课程结构及内容会根据实际情况随时进行调整。
 
 ### 初级
-- [简介](https://github.com/stone0090/javascript-lessons/tree/master/1.1-Introduction)（已完成）
-- [初探](https://github.com/stone0090/javascript-lessons/tree/master/1.2-FirstExploration)（已完成）
-- [语法](https://github.com/stone0090/javascript-lessons/tree/master/1.3-Syntax)（已完成）
-- [变量和数据类型](https://github.com/stone0090/javascript-lessons/tree/master/1.4-Variable&Types)（已完成）
-- [表达式和运算符](https://github.com/stone0090/javascript-lessons/tree/master/1.5-Expression&Operators)（已完成）
-- [语句](https://github.com/stone0090/javascript-lessons/tree/master/1.6-Statements)（已完成）
-- [对象](https://github.com/stone0090/javascript-lessons/tree/master/1.7-ObjectObjects)（已完成）
+- [简介](https://github.com/stone0090/javascript-lessons/tree/master/1.1-Introduction)（已完成👌）
+- [初探](https://github.com/stone0090/javascript-lessons/tree/master/1.2-FirstExploration)（已完成👌）
+- [语法](https://github.com/stone0090/javascript-lessons/tree/master/1.3-Syntax)（已完成👌）
+- [变量和数据类型](https://github.com/stone0090/javascript-lessons/tree/master/1.4-Variable&Types)（已完成👌）
+- [表达式和运算符](https://github.com/stone0090/javascript-lessons/tree/master/1.5-Expression&Operators)（已完成👌）
+- [语句](https://github.com/stone0090/javascript-lessons/tree/master/1.6-Statements)（已完成👌）
+- [对象](https://github.com/stone0090/javascript-lessons/tree/master/1.7-ObjectObjects)（已完成👌）
 - [数组](https://github.com/stone0090/javascript-lessons/tree/master/1.8-ArrayObjects)（已完成）
 - [函数](https://github.com/stone0090/javascript-lessons/tree/master/1.9-FunctionObjects)（已完成）
 - [正则表达式](https://github.com/stone0090/javascript-lessons/tree/master/1.10-RegExpObjects)（已完成）
