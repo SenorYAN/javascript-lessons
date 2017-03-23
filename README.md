@@ -23,7 +23,7 @@
 - [数组](https://github.com/stone0090/javascript-lessons/tree/master/1.8-ArrayObjects)（已完成👌）
 - [函数](https://github.com/stone0090/javascript-lessons/tree/master/1.9-FunctionObjects)（已完成👌）
 - [正则表达式](https://github.com/stone0090/javascript-lessons/tree/master/1.10-RegExpObjects)（已完成）
-- [基本包装类型](https://github.com/stone0090/javascript-lessons/tree/master/1.11-PrimitiveWrapperObjects)（已完成）
+- [基本包装类型](https://github.com/stone0090/javascript-lessons/tree/master/1.11-PrimitiveWrapperObjects)（已完成👌）
 - [单体内置对象](https://github.com/stone0090/javascript-lessons/tree/master/1.12-SingletonBuiltInObjects)（已完成）
 
 ### 中级
