@@ -31,7 +31,7 @@
 - [DOM（文档对象模型）上](https://github.com/stone0090/javascript-lessons/tree/master/2.2-DOM)（已完成👌）
 - [DOM（文档对象模型）下](https://github.com/stone0090/javascript-lessons/tree/master/2.2-DOM/README2.md)（已完成👌）
 - [事件](https://github.com/stone0090/javascript-lessons/tree/master/2.3-Event)（已完成👌）
-- [作用域和闭包](https://github.com/stone0090/javascript-lessons/tree/master/2.4-Scope&Closure)（已完成）
+- [作用域和闭包](https://github.com/stone0090/javascript-lessons/tree/master/2.4-Scope&Closure)（已完成👌）
 - [原型及原型链](https://github.com/stone0090/javascript-lessons/tree/master/2.5-Prototype)（已完成）
 - [综合挑战](https://github.com/stone0090/javascript-lessons/tree/master/2.9-Challenge)（持续更新...）
 
